@@ -1,0 +1,16 @@
+{
+    "name": "chenzx023/php-jwt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "小陈同学",
+            "email": "chenzx023@aliyun.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src"
+        }
+    }
+}
